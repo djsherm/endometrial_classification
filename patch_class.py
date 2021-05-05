@@ -4,7 +4,7 @@ Created on Wed Nov 25 16:12:20 2020
 
 @author: Daniel Sherman
 """
-
+#this is a test update
 use_argv = True #False means I am training locally
 
 import tensorflow
